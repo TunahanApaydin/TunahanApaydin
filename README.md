@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TunahanApaydin
-- 👀 I’m interested in robotic, control and autonomous vehicle.
+- 👀 I’m interested in computer vision, deep learning and autonomous vehicle.
 - 🌱 I am currently learning these subjects.
 
 <!---
